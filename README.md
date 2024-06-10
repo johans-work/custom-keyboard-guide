@@ -16,7 +16,7 @@ I started with the ZSA Voyager, and though the column staggered keys were not th
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
-But don't damn your freedom. It's what ensures you'll get to a better place!
+
 
 # A Few Misconceptions
 
