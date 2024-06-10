@@ -24,4 +24,4 @@ Shift is a layer, as are ctrl, alt, fn, and win, that just give another input fo
 
 Yes, QWERTY is not the most efficient when considering key usage and travel distance. However, most of your wrist twisting and bad posture are not the result of how your alpha keys are laid out, which are all 1u distance from the homerow. 
 
-And the results of the clinical trials conducted by "the internet" are fairly unanomous. After months of productivity loss as you switch, most end up slower than QWERTY, which you'd think would be impossible given they're scientifically proven to be more efficient. This isn't to say you shouldn't do it. Just, do everything else first, especially if your primary concern is ergonomics.
+And the results of the clinical trials conducted by "the internet" are fairly unanomous. After months of productivity loss as you switch, most end up slower than their speeds on QWERTY, which you'd think would be impossible given QWERTY is scientifically proven to be less efficient. This isn't to say you shouldn't do it. Just, do everything else first, especially if your primary concern is ergonomics.
