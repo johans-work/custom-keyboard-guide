@@ -19,8 +19,7 @@ Physical keys, yes, but every new layer multplies the physical key count. So a 4
    
 ### 2. "Layers are difficult."
 
-Shift is a layer, as are ctrl, alt, fn, and win, that just give another input for various keys. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
-
+Shift is a layer, as are ctrl, alt, fn, and win, that just give another input for various keys. What's difficult is figuring out what to put on new layers, how to trigger them, how to remember it all, and what to do with combinations of mods and alternate layer input.
 ### 3. "QWERTY sucks, I also should learn a new layout."
 
 Yes, QWERTY is not the most efficient when considering key usage and travel distance. However, most of your wrist twisting and bad posture are not the result of how your alpha keys are laid out, which are all 1u distance from the homerow. 
