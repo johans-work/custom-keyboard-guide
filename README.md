@@ -1,6 +1,13 @@
-# custom-keyboards-overview
+# Intro
 Overview and starter's guide to custom mechanical keyboards of all shapes and sizes.
 
+# Some Terminology
+
+#### Homerow
+
+#### Dual Function Keys
+
+#### QMK / VIA / VIAL
 
 
 # Some History
