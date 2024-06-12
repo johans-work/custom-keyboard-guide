@@ -39,6 +39,7 @@ A good keyboard is like good coffee. There's no explaining it. There's only expe
 
 And that is my Filco. When I type on it now, it sounds... tragic.
 
+There is no going back.
 
 # A Few Misconceptions
 
