@@ -60,7 +60,7 @@ Shift is a layer, as are ctrl, alt, fn, and win, that just give another input fo
 
 What's also difficult is entering passwords with long random strings of symbols, but this isn't easy with any keyboard, and you should be using a password manager anyway.
 
-#### 3. "QWERTY is old, I should learn a new layout."
+#### 3. "I need to switch from QWERTY."
 
 Yes, QWERTY is not the most efficient when considering key usage and travel distance. However, most of your wrist twisting and bad posture are not the result of how your alpha keys are laid out, which are all 1u distance from the homerow, regardless of your layout.
 
