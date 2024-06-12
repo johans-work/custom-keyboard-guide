@@ -7,7 +7,7 @@ The 3 lessons custom keyboards will teach you:
 2) choice is hard
 3) there's no going back
 
-I will then cover some terminology, common misconceptions, simple recommendations, and resources.
+I will then cover some terminology, common misconceptions, simple recommendations, market overview, and resources.
 
 # Lessons
 
