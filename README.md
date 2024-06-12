@@ -9,7 +9,7 @@ Overview to custom mechanical keyboards of all shapes and sizes.
 
 # A Short Story
 
-20 years ago, I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
+It's the early 2000s. I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I would go on to use the thing for 20 years, with no complaints. 
 
 Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
