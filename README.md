@@ -29,11 +29,11 @@ Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
 And I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap. The only options were to replace the switches, or to mod them, so I did both. And that was it. I had feathery light "purpz" but with red pros for the keys where my fingers rest. The tape mod removed the clicky-clack and replaced it with a comforting thud.
 
-By that point, I just needed to know what a "real" mechanical keyboard could do.
+But by that point, I just needed to know. What does a good keyboard sound like? So I found a Space65 on the aftermarket to match my PC, and that was it. The board was pre-built and as-is, and had it not sounded that good, I likely would not be typing this.
 
-I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
+The keys felt and sounded like popping bubblewrap. 
 
-
+Lesson two: **"Once you experience it, there is no going back."**
 
 
 # A Few Misconceptions
