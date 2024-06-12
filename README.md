@@ -35,9 +35,9 @@ The board was heftly, the finish was stunning, and the keys felt and sounded lik
 
 Lesson two: **"Once you experience it, there is no going back."**
 
-A good keyboard is like good coffee. There's only experiencing it, and once you do, the coffee you used to never complain about suddenly tastes like garbage.
+A good keyboard is like good coffee. There's no explaining it. There's only experiencing it. But once you do, the coffee you never complained about, suddenly tastes like trash.
 
-And that is my Filco. I type on it now and it sounds... tragic.
+And that is my Filco. When I type on it now, it sounds... tragic.
 
 
 # A Few Misconceptions
