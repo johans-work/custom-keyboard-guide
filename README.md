@@ -12,7 +12,7 @@ Overview to custom mechanical keyboards of all shapes and sizes.
 
 # A Short Story
 
-20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium, mechanical switch keyboard. A Filco with cherry brown switches. Reviews were raving, and
+20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I used the thing for 20 years. No complaints. 
 
 Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the matching ASUS EVA Strix Scope keyboard. A beautiful, fully lit, full-sized mechanical keyboard. A marvel of ASUS engineering, with raving reviewes, that matched my setup perfectly. 
