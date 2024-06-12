@@ -3,25 +3,20 @@ Overview to custom mechanical keyboards of all shapes and sizes.
 
 3 lessons custom keyboards will teach you.
 
-1) adapting is easy
+1) conforming is easy
 2) choice is hard
 3) there's no going back
 
-You've already adapted and aren't complaining. Choice will stop progress. But once you've made progress, and once you've experienced it, there's absolutely no going back.
-
-
 # A Short Story
 
-20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
-I used the thing for 20 years. No complaints. 
+20 years ago, I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
+I would go on to use the thing for 20 years, with no complaints. 
 
-Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the matching ASUS EVA Strix Scope keyboard. A beautiful, fully lit, full-sized mechanical keyboard. A marvel of ASUS engineering, with raving reviewes, that matched my setup perfectly. 
+Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
 
-Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
+But I couldn't give up on my keyboard upgrade. Being bored with how I interfaced my computer, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
 
-Being bored with how I interfaced my computer, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews. Just this time, it came in two odd small halves. Plenty of room for my mouse, and even a beverage in the middle.
-
-Adjusting to the column staggered keys was fairly straigthforward, and that was it. The huge spacebars now looked nothing but barbaric. I almost regretted using the Filco for so long - eventhough I was perfectly happy with it. That's how much better a better layout can be.
+Adjusting to the column staggered keys was fairly straigthforward, and that was it. The huge spacebars now looked nothing but barbaric. I almost regretted using the Filco for so long, eventhough I was perfectly happy with it. That's how much better a better layout can be.
 
 But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Given the freedom to do anything, what the hell?
 
