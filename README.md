@@ -30,7 +30,7 @@ But I did have one issue with my Voyager. The keys just felt cheap. The only opt
 
 But by that point, I just had to know what a "good" keyboard sounded like. I came across the Space65 in an asmr video, that also came in an EVA colorway. I spotted one on the aftermarket, and that was it. The board was pre-built by the previous owner, and as-is. And had it not sounded that good, I likely would not be typing this, on my 40% cisne, now.
 
-The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped.
+The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped. My workspace turned inito asmr space, and typing became delicious.
 
 #### Lesson three: **"Once you experience it, there is no going back."**
 
