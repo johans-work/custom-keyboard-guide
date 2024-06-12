@@ -19,7 +19,7 @@ Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the 
 
 Except, it was too big, too clicky, and a bit too stiff. It wasn't it.
 
-So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I landed at the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two oddly shaped halves.
+So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two oddly shaped halves.
 
 Adjusting to the column staggered keys was fairly easy. The hard part was figuring out what to with 4 thumb keys and 10 layers. 
 
