@@ -19,14 +19,15 @@ Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the 
 
 Except, it was too big, too clicky, and a bit too stiff. It wasn't it.
 
-So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I ended up getting the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two odd shaped halves.
+So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I landed at the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two oddly shaped halves.
 
+Adjusting to the column staggered keys was fairly easy. The hard part was figuring out what to with 4 thumb keys and 10 layers. 
 
-
-
-And though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
+The potential was intimidating, but also incredibly time consuming.
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
+
+
 
 Once you experience the efficiency and comfort of a smaller layout, standard keyboards really do begin to feel barbaric. 
 
