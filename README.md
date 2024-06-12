@@ -1,7 +1,7 @@
 # Intro
 This is an overview to custom mechanical keyboards of all shapes and sizes for anyone starting or just interested in another enthusiast's take.
 
-The 3 lessons custom keyboards will teach you:
+The 3 lessons custom keyboards taught me:
 
 1) being told what to do is easy
 2) choice is hard
