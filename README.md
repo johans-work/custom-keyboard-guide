@@ -19,25 +19,17 @@ Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the 
 
 Except, it was too big, too clicky, and a bit too stiff. It wasn't it.
 
-So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two oddly shaped halves.
+So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two oddly shaped, flat, tiny halves.
 
-Adjusting to the column staggered keys was fairly easy. The hard part was figuring out what to with 4 thumb keys and 10 layers. 
+Adjusting to the column staggered keys was fairly easy, and that was it. From that point on, the huge spacebars looked nothing but barbaric. I almost regretted using the Filco for so long - eventhough I was happy with it the entire time. I just didn't know. That's how much better a better layout can be.
 
-The potential was intimidating, but also incredibly time consuming.
+But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also incredibly time consuming. Given the freedom to do anything, what the hell do you do?
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
+And I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap. The only options were to replace the switches, or to mod them, so I did both. And that was it. I had feathery light "purpz" but with red pros for the keys where my fingers rest. The tape mod removed the clicky-clack and replaced it with a comforting thud.
 
-
-Once you experience the efficiency and comfort of a smaller layout, standard keyboards really do begin to feel barbaric. 
-
-"Why am I not using my thumbs more? Why is backspace and shift so far? How did I live like this!?"
-
-I almost regretted using the Filco for so long - eventhough I never had an issue and had no complaints. That's how much better a better layout can be.
-
-However, I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap. And the only real options you have are to replace the switches, or to mod them, so I did both. And that was the end of it.
-
-I had feathery light "purpz" but with red pros for the keys where my fingers rest. The tape mod didn't make the board sound premium by any stretch, but they removed the clicky-clack and replaced it with a muted thud.
+By that point, I just needed to know what a "real" mechanical keyboard could do.
 
 I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
 
