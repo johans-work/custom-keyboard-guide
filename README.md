@@ -48,7 +48,7 @@ And that is my Filco. When I type on it now, it sounds... Tragic. There was no g
 #### QMK / VIA / VIAL
 
 
-# A Few Misconceptions
+# Common Misconceptions
 
 #### 1. "Smaller keyboards have less keys."
 
