@@ -36,7 +36,7 @@ The board was heftly, the finish was stunning, and the keys felt and sounded lik
 
 A good keyboard is like good coffee. There's no explaining it. There's only tasting it. But once you do, all that coffee you never complained about and even enjoyed, suddenly tastes like trash.
 
-And that is my Filco. When I type on it now, it sounds... Tragic. There was no going back.
+And that is my Filco. When I type on it now, it sounds... Tragic. There is no going back.
 
 
 # Some Terminology
