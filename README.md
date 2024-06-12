@@ -27,7 +27,7 @@ But the real challenge was figuring out what to do with the 4 thumb keys and 10 
 
 Lesson one: **"Being told what to do is easy. Choice is hard."**
 
-But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a minute thump.
+But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a quick thump.
 
 But by that point, I just had to know what a "good" keyboard sounded like. So I chose the Space65 featured on an asmr video that also came in an EVA colorway. I spotted one on the aftermarket, and that was it. The board was pre-built and as-is, and had it not sounded that good, I likely would not be typing this, on a 40% cisne, now.
 
