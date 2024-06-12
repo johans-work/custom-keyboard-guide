@@ -29,16 +29,17 @@ Lesson one: **"Being told what to do is easy. Choice is hard."**
 
 But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a quick thump.
 
-But by that point, I just had to know what a "good" keyboard sounded like. So I chose the Space65 featured on an asmr video that also came in an EVA colorway. I spotted one on the aftermarket, and that was it. The board was pre-built and as-is, and had it not sounded that good, I likely would not be typing this, on a 40% cisne, now.
+But by that point, I just had to know what a "good" keyboard sounded like. I came across the Space65 in an asmr video, that also came in an EVA colorway. I spotted one on the aftermarket, and that was it. The board was pre-built by the previous owner, and as-is. And had it not sounded that good, I likely would not be typing this, on my 40% cisne, now.
 
 The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped.
 
-Lesson two: **"There is no going back."**
+Lesson two: **"Once you experience it, there is no going back."**
 
-A good keyboard is like good coffee. There's no explaining it. There's only experiencing it. But once you do, the coffee you never complained about, suddenly tastes like trash.
+A good keyboard is like good coffee. There's no explaining it. There's only tasting it. But once you do, all that coffee you never complained about and even enjoyed, suddenly tastes like trash.
 
-And that is my Filco. When I type on it now, it sounds... tragic. There is no going back.
+And that is my Filco. When I type on it now, it sounds... tragic.
 
+There is no going back.
 
 
 # A Few Misconceptions
