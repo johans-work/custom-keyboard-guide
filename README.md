@@ -25,7 +25,7 @@ Adjusting to the column staggered keys was fairly straigthforward. But that was 
 
 But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Given the freedom to do anything, what the hell?
 
-Lesson one: **"Being told what to do is easy. Choice is what's hard."**
+Lesson one: **"Being told what to do is easy. Choice is hard."**
 
 But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a minute thump.
 
@@ -33,7 +33,7 @@ But by that point, I just had to know what a "good" keyboard sounded like. So I 
 
 The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped.
 
-Lesson two: **"Once you experience it, there is no going back."**
+Lesson two: **"There is no going back."**
 
 A good keyboard is like good coffee. There's no explaining it. There's only experiencing it. But once you do, the coffee you never complained about, suddenly tastes like trash.
 
