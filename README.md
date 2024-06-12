@@ -9,7 +9,7 @@ The 3 lessons custom keyboards will teach you:
 
 We will then go on to cover some terminology, common misconceptions, simple recommendations, and resources.
 
-# A Short Story
+# Lessons
 
 It's the early 2000s. I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I would go on to use the thing for 20 years, with no complaints. 
