@@ -17,7 +17,7 @@ I used the thing for 20 years. No complaints.
 
 Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the matching ASUS EVA Strix Scope keyboard. A beautiful, fully lit, full-sized mechanical keyboard. A marvel of ASUS engineering, with raving reviewes, that matched my setup perfectly. 
 
-Except, it was too big, too clicky, and a bit too stiff. It wasn't it.
+Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it.
 
 So being bored with how I interfaced my computer, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel backed by raving reviews. Just this time, it came in two odd flat halves.
 
