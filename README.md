@@ -47,6 +47,11 @@ And that is my Filco. When I type on it now, it sounds... tragic. There is no go
 
 #### QMK / VIA / VIAL
 
+#### Interest Checks (ICs)
+
+#### Group Buys (GBs)
+
+
 
 # Common Misconceptions
 
@@ -85,6 +90,12 @@ And the results of the clinical trials conducted by "the internet" are fairly un
 ### Switches
 
 ### Sound
+
+# The Market Landscape (2024)
+
+# Resources
+
+# In Closing
 
 
 
