@@ -9,14 +9,6 @@ Overview to custom mechanical keyboards of all shapes and sizes.
 
 You've already adapted and aren't complaining. Choice will stop progress. But once you've made progress, and once you've experienced it, there's absolutely no going back.
 
-# Some Terminology
-
-#### homerow
-
-#### dual function keys
-
-#### QMK / VIA / VIAL
-
 
 # A Short Story
 
@@ -50,6 +42,15 @@ And that is my Filco. When I type on it now, it sounds...
 Tragic.
 
 There is no going back.
+
+
+# Some Terminology
+
+#### homerow
+
+#### dual function keys
+
+#### QMK / VIA / VIAL
 
 
 # A Few Misconceptions
