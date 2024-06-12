@@ -16,6 +16,13 @@ I started with the ZSA Voyager, and though the column staggered keys were not th
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
+Once you experience just how efficient and comfortable a smaller layout can be, large keyboards begin to feel barbaric. Why am I not using my thumbs more? Why is backspace and shift so far? 
+
+21 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. I did my research and sought out the best sounding premium keyboard money could buy, and landed on a Filco with cherry brown switches. I used it for 20 years. 
+
+Then this year, after I purchased a voyager, I wasn't so impressed with the sound and feel of the keys. So after some research, I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
+
+
 
 
 # A Few Misconceptions
