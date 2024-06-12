@@ -12,13 +12,22 @@ Overview and starter's guide to custom mechanical keyboards of all shapes and si
 
 # Some History
 
-I started with the ZSA Voyager, and though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
+21 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. I did my research and sought out the best sounding premium keyboard money could buy, and landed on a Filco with cherry brown switches. Amazon reviews were raving, and there couldn't be a better choice at the time, or so I thought. 
+
+I used it for 20 years. No complaints. 
+
+Then more recently, mostly out of curiousity, I decided to try a split keyboard, and ended up getting a ZSA Voyager. And though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
-Once you experience just how efficient and comfortable a smaller layout can be, large keyboards begin to feel barbaric. Why am I not using my thumbs more? Why is backspace and shift so far? 
+Once you experience the efficiency and comfort of a smaller layout, standard keyboards really do begin to feel barbaric. 
 
-21 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. I did my research and sought out the best sounding premium keyboard money could buy, and landed on a Filco with cherry brown switches. I used it for 20 years. 
+"Why am I not using my thumbs more? Why is backspace and shift so far? How did I live like this!?"
+
+I almost regretted using the Filco for so long - eventhough I never had an issue and had no complaints. That's how much better a better layout can be.
+
+However, I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap.
+
 
 Then this year, after I purchased a voyager, I wasn't so impressed with the sound and feel of the keys. So after some research, I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
 
