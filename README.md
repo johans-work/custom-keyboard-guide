@@ -12,12 +12,17 @@ Overview and starter's guide to custom mechanical keyboards of all shapes and si
 
 # Some History
 
-20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium, mechanical switch keyboard - a Filco with cherry brown switches. Amazon reviews were raving, and
+20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium, mechanical switch keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I used the thing for 20 years. No complaints. 
 
-Then recently, after upgrading to an Evangelion themed custom PC, I upgraded my keyboard to the matching EVA Strix. An absolutely beautiful, fully lit, full-sized mechanical keyboard, with all the right colors and gimics, and raving reviewes to back it. Except, it was too big, too clicky, and a bit too stiff for me to type on. It didn't really feel like an upgrade for me at all. 
+Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the matching ASUS EVA Strix Scope keyboard. A beautiful, fully lit, full-sized mechanical keyboard. A marvel of ASUS engineering, with raving reviewes, that matched my setup perfectly. 
 
-So being bored with how I interfaced my computer, and being old enough to feel this could be my opportunity to switch, I wanted to try a split keyboard, and ended up getting a ZSA Voyager. Again, beautifully lit, solidly built, and backed by raving reviews.
+Except, I had one complaint. It was too big, too clicky, and a bit too stiff. It wasn't it.
+
+So being bored with how I interfaced my computer, and being old enough to think this could be my last real opportunity to switch for health benefits, I ended up getting the ZSA Voyager. Another fully lit marvel of engineering backed by raving reviews, just this time, it came in two odd shaped halves.
+
+
+
 
 And though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
 
