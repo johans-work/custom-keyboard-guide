@@ -3,7 +3,7 @@ Overview to custom mechanical keyboards of all shapes and sizes.
 
 3 lessons custom keyboards will teach you.
 
-1) conforming is easy
+1) being told what to do is easy
 2) choice is hard
 3) there's no going back
 
@@ -16,11 +16,13 @@ Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the m
 
 Already dedicated to upgrading, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
 
-Adjusting to the column staggered keys was fairly straigthforward, and that was it. The huge spacebars now looked nothing but barbaric. I almost regretted using the Filco for so long, eventhough I was perfectly happy with it. That's how much better a better layout can be.
+Adjusting to the column staggered keys was fairly straigthforward, but it was the thumb keys that did it. The huge spacebars now felt nothing but barbaric. It made me regret using my Filco for so long, eventhough I was perfectly happy with it. 
+
+#### Lesson one: **"Conforming is easy, and will even keep you happy."**
 
 But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Given the freedom to do anything, what the hell?
 
-Lesson one: **"Being told what to do is easy. Choice is hard."**
+#### Lesson two: **"Choice is hard."**
 
 But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a quick thump.
 
@@ -28,7 +30,7 @@ But by that point, I just had to know what a "good" keyboard sounded like. I cam
 
 The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped.
 
-Lesson two: **"Once you experience it, there is no going back."**
+#### Lesson three: **"Once you experience it, there is no going back."**
 
 A good keyboard is like good coffee. There's no explaining it. There's only tasting it. But once you do, all that coffee you never complained about and even enjoyed, suddenly tastes like trash.
 
