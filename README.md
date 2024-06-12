@@ -19,7 +19,7 @@ Then recently, after upgrading to an Evangelion themed custom PC, I grabbed the 
 
 Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it.
 
-So being bored with how I interfaced my computer, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel backed by raving reviews. Just this time, it came in two odd flat halves.
+So being bored with how I interfaced my computer, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews. Just this time, it came in two curiously flat halves.
 
 Adjusting to the column staggered keys was fairly straigthforward. And that was it. From then on, the huge spacebars now looked nothing but barbaric. I almost regretted using the Filco for so long - eventhough I was perfectly happy with it. That's how much better a better layout can be.
 
