@@ -34,10 +34,11 @@ Once you experience the efficiency and comfort of a smaller layout, standard key
 
 I almost regretted using the Filco for so long - eventhough I never had an issue and had no complaints. That's how much better a better layout can be.
 
-However, I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap.
+However, I did have one complaint with my Voyager. The low profile choc switches just felt and sounded cheap. And the only real options you have are to replace the switches, or to mod them, so I did both. And that was the end of it.
 
+I had feathery light "purpz" but with red pros for the keys where my fingers rest. The tape mod didn't make the board sound premium by any stretch, but they removed the clicky-clack and replaced it with a muted thud.
 
-Then this year, after I purchased a voyager, I wasn't so impressed with the sound and feel of the keys. So after some research, I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
+I got a Space65 mecha colorway on the aftermarket to match my newly built EVA PC. 
 
 
 
