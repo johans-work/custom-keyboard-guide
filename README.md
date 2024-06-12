@@ -22,7 +22,7 @@ Adjusting to the column staggered keys was fairly straigthforward, but it was th
 
 #### Lesson one: **"Conforming is easy, and will even keep you happy."**
 
-But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Who knew the freedom to do anything could lead to so much suffering.
+But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Who knew the freedom to do anything could lead to so much suffering. It took many months to finally arrive at my [berserk layout](https://github.com/johans-work/berserk).
 
 #### Lesson two: **"Choice is hard."**
 
