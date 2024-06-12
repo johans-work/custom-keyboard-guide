@@ -1,5 +1,5 @@
 # Intro
-Overview and starter's guide to custom mechanical keyboards of all shapes and sizes.
+Overview to custom mechanical keyboards of all shapes and sizes.
 
 # Some Terminology
 
@@ -10,7 +10,7 @@ Overview and starter's guide to custom mechanical keyboards of all shapes and si
 #### QMK / VIA / VIAL
 
 
-# Some History
+# A Short Story
 
 20 years ago, I was at the keyboard section of Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium, mechanical switch keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I used the thing for 20 years. No complaints. 
