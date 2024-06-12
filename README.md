@@ -1,6 +1,14 @@
 # Intro
 Overview to custom mechanical keyboards of all shapes and sizes.
 
+3 lessons custom keyboards will teach you.
+
+1) adapting is easy
+2) choice is hard
+3) there's no going back
+
+You've already adapted and aren't complaining. Choice will stop progress. But once you've made progress, and once you've experienced it, there's absolutely no going back.
+
 # Some Terminology
 
 #### homerow
