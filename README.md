@@ -14,7 +14,7 @@ We will then cover some terminology, common misconceptions, simple recommendatio
 It's the early 2000s. I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
 I would go on to use the thing for 20 years, with no complaints. 
 
-Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching top-of-the-line ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. By all measures, a worthy upgrade. Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
+Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching top-of-the-line ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. By all measures, a worthy upgrade. Except, it was too clicky, too loud, a bit too stiff, and left no room for my mouse. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
 
 Committed to upgrading, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
 
