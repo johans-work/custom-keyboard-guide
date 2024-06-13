@@ -60,17 +60,17 @@ And that is my Filco. When I type on it now, it sounds... tragic. There is no go
 
 # Common Misconceptions
 
-#### 1. "Smaller keyboards have less keys."
+### 1. "Smaller keyboards have less keys."
 
 Physical keys, yes, but every new layer multplies the physical key count. So a 40% keyboard with 3 layers is a 120% keyboard.
    
-#### 2. "Layers are difficult."
+### 2. "Layers are difficult."
 
 Shift is a layer, as are ctrl, alt, fn, and win, that just give another input for various keys. What's difficult is figuring out what to put on new layers, how to trigger them, how to remember it all, and what to do with combinations of mods and alternate layer input.
 
 What's also difficult is entering passwords with long random strings of symbols, but this isn't easy with any keyboard, and you should be using a password manager anyway.
 
-#### 3. "I need to switch from QWERTY."
+### 3. "I need to switch from QWERTY."
 
 Yes, QWERTY is not the most efficient when considering key usage and travel distance. However, most of your wrist twisting and bad posture are not the result of how your alpha keys are laid out, which are all 1u distance from the homerow, regardless of your layout.
 
