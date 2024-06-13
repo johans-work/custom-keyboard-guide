@@ -16,7 +16,7 @@ I would go on to use the thing for 20 years, with no complaints.
 
 Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching top-of-the-line ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. By all measures, a worthy upgrade. Except, it was too big, too clicky, too loud, and a bit too stiff. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
 
-Already committed to upgrading, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
+Committed to upgrading, and being old enough to think this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
 
 Adjusting to the column staggered keys was fairly straigthforward, but it was the thumb keys that did it. The huge spacebars now felt nothing but barbaric. It made me regret using my Filco for so long, eventhough I was perfectly happy with it. 
 
