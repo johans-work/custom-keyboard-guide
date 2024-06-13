@@ -28,18 +28,20 @@ But the real challenge was figuring out what to do with the 4 thumb keys and 10 
 
 But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a muted thump. Much much better.
 
-But by that point, I just had to know what a "good" keyboard sounded like. I came across the Space65 in an asmr video, that also came in an EVA colorway. I spotted one on the aftermarket, and that was it. The board was pre-built by the previous owner, and as-is. And had it not sounded that good, I likely would not be typing this, on my 40% cisne, now.
+But by that point, I just had to know what a "good" keyboard sounded like. I came across the Space65 in an ASMR video, that also came in an Evangelion colorway. I eventually spotted one on the aftermarket. The board was as-is, pre-built by the previous owner, and that was the end of it. Had it not sounded that good, I likely would not be typing this, on my 40% cisne, now.
 
-The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock. It didn't clack. It popped. My workspace turned inito asmr space, and typing became delicious.
+The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock or clack. It popped. My workspace turned inito ASMR space, and typing on it was delicious.
 
 #### Lesson three: **"Once you experience it, there is no going back."**
 
 A good keyboard is like good coffee. There's no explaining it. There's only tasting it. But once you do, all that coffee you never complained about and even enjoyed, suddenly tastes like trash.
 
-And that is my Filco. When I type on it now, it sounds... tragic. There is no going back.
+And that is my Filco. When I type on it now, it sounds... tragic. There is no going back. And just like coffee, I'm willing to invest my time and money into making that perfect cup.
 
 
 # Some Terminology
+
+#### 1u, 1.25u, 1.5u, etc.
 
 #### homerow
 
@@ -51,6 +53,9 @@ And that is my Filco. When I type on it now, it sounds... tragic. There is no go
 
 #### Group Buys (GBs)
 
+#### GMK
+
+#### ABS and PBS
 
 
 # Common Misconceptions
