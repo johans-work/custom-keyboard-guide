@@ -20,11 +20,11 @@ Committed to upgrading, and being old enough to believe this could be my last ch
 
 Adjusting to the column staggered keys was fairly straigthforward, but it was the thumb keys that did it. The huge spacebars now felt nothing but barbaric. It made me regret using my Filco for so long, eventhough I was perfectly happy with it. 
 
-#### Lesson one: **"Conforming is easy, and will even keep you happy."**
+### Lesson one: **"Conforming is easy, and will even keep you happy."**
 
 But the real challenge was figuring out what to do with the 4 thumb keys and 10 layers. The potential was intimidating, but also time consuming. Who knew the freedom to do anything could lead to so much suffering. It would take months to finally arrive at my [berserk layout](https://github.com/johans-work/berserk).
 
-#### Lesson two: **"Choice is hard."**
+### Lesson two: **"Choice is hard."**
 
 But I did have one issue with my Voyager. The keys just felt cheap. The only options were to replace the switches, or mod them, so I did both. I had feathery light "purpz" but with heavier red pros for where my fingers rest. The tape mod replaced the jittery clackiness with a muted thump. Much much better.
 
@@ -32,7 +32,7 @@ But by that point, I just had to know what a "good" keyboard sounded like. I cam
 
 The board was heftly, the finish was stunning, and the keys felt and sounded like popping bubblewrap. It didn't thock or clack. It popped. My workspace turned inito ASMR space, and typing on it was delicious.
 
-#### Lesson three: **"Once you experience it, there is no going back."**
+### Lesson three: **"Once you experience it, there is no going back."**
 
 A good keyboard is like good coffee. There's no explaining it. There's only tasting it. But once you do, all that coffee you never complained about and even enjoyed, suddenly tastes like trash.
 
