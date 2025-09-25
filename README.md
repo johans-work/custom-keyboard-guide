@@ -11,12 +11,14 @@ The 3 lessons custom keyboards could teach somebody:
 
 We will then cover some terminology, common misconceptions, simple recommendations, market landscape, and resources.
 
-# Prelude
+# Journey
 
-It's the early 2000s. I was at Yodobashi Camera in Tokyo. After days of testing keyboards on display, I got my first premium mechanical keyboard. A Filco with cherry brown switches. Reviews were raving, and
-I would go on to use the thing for 20 years, with no complaints. 
+In the early 2000s Tokyo. After days of testing keyboards on display at Yodobashi, I took home a stealth edition Filco sporting cherry brown switches. Reviews were raving, and little did I know I would go on to use the thing for the next 20 years. No issues. 
 
-Then recently, after upgrading to a custom Evangelion themed PC, I grabbed the matching top-of-the-line ASUS keyboard. A stunning, fully lit, full-sized mechanical keyboard. A marvel of engineering with raving reviewes, that matched my setup perfectly. By all measures, a worthy upgrade. Except, it was too clicky, too loud, a bit too stiff, and left no room for my mouse. It wasn't it. The ASUS would entertain my desk for another 6 months, but only for the light show.
+Fast foward to 2023. After building an Evangelion themed PC, I grabbed the matching top-of-the-line ASUS keyboard. A stunning, fully lit, marvel of engineering with raving reviewes, that matched my setup perfectly. By all measures, my full setup, including my keyboard, was now END GAME worthy. Except, the thing was too clicky, too loud, keys a bit too heavy, and left no room for my mouse. The ASUS would entertain my desk for another 6 months, but only for the light show, for I had met someone else. My ZSA Voyager.
+
+
+--
 
 Committed to upgrading, and being old enough to believe this could be my last chance to switch for health benefits, I arrived at the ZSA Voyager. Another fully lit marvel, backed by raving reviews, with plenty of room for my mouse, and even a beverage in the middle.
 
